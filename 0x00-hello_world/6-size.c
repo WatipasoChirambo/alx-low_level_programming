@@ -14,4 +14,6 @@ int main(void)
 	char d;
 	printf("Size of a char: %lu byte(s)\n", (unsigned long)sizeof(d));
 	printf("Size of an int: %lu byte(S)\n", (unsigned long)sizeof(a));
+
+	return (0);
 }
