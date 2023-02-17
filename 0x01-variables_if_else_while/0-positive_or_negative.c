@@ -4,7 +4,7 @@
 
 /**
  *
- * Main - entry point 
+ * main - entry point 
  *
  * description: if else statements in c
  *
