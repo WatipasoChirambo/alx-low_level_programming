@@ -3,8 +3,7 @@
 #include <time.h>
 
 /**
- *
- * main - entry point 
+ * main - Entry point 
  *
  * description: if else statements in c
  *
