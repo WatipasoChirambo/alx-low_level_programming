@@ -1,6 +1,15 @@
 #include <stdio.h>
 #include <time.h>
 
+/**
+ *
+ * Main - entry point 
+ *
+ * description: if else statements in c
+ *
+ * Return: (0) success
+ */
+
 int main(void)
 {
 	int n;
