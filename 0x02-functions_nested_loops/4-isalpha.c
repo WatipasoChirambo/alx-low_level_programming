@@ -4,7 +4,8 @@
  *
  * _isalpha - checking if its an alphabet
  *
- * Description: function return 1 if the character is a letter, lower or uppercase
+ * Description: function return 1 if the 
+ * character is a letter, lower or uppercase
  *
  * Return: 1 or 0
  *
