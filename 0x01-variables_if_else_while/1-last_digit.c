@@ -5,7 +5,7 @@
 /*
  * main - Entry point
  *
- * Description: "Printing the last digit of a number and some logic based on value of number"
+ * Description: "print last digit of number and some logic based on value of number"
  *
  * Return: always 0 (success)
  */
