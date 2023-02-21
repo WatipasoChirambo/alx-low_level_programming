@@ -13,7 +13,7 @@ int main(void)
 {
 	char back;
 
-	for(back = 'z'; back >= 'a'; back++)
+	for(back = 'z'; back >= 'a'; back--)
 	{
 		putchar(back);
 		if (back == 'a')
