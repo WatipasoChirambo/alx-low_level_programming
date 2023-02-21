@@ -1,7 +1,6 @@
 #include "main.h"
 
 /**
- *
  * _isalpha - checking if its an alphabet
  *
  * Description: function return 1 if the 
