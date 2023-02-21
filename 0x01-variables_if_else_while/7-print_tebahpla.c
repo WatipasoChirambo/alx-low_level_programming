@@ -14,8 +14,10 @@ int main(void)
 	char back;
 
 	for(back = 'z'; back >= 'a'; back++)
+	{
 		putchar(back);
-		putchar('\n');
+	}
+	putchar('\n');
 
 	return (0);
 }
