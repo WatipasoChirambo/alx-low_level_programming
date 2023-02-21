@@ -16,7 +16,7 @@ int main(void)
 	for(low = 'a'; low <= 'z'; low++)
 	{
 		putchar(low);
-		if (low=='z')
+		if (low == 'z')
 			putchar('\n');
 	};
 	return (0);
