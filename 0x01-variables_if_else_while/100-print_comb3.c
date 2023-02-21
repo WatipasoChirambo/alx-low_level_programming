@@ -1,4 +1,5 @@
-#include <stdlib.h>
+#include <stdlib.
+h>
 #include <stdio.h>
 
 /**
@@ -13,7 +14,7 @@ int main(void)
 
 	for (first_num = '0'; first_num < '9'; first_num++)
 	{
-		for(second_num = first_num + 1; second_num <= '9'; second_num++)
+		for (second_num = first_num + 1; second_num <= '9'; second_num++)
 		{
 			if (second_num != first_num)
 			{
