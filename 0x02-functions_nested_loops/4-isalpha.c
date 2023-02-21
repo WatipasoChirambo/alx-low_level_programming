@@ -23,5 +23,5 @@ int _isalpha(int c)
 				letter = 1;
 		}
 	}
-	return (letter)
+	return (letter);
 }
