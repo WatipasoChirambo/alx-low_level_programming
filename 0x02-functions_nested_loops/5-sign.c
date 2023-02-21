@@ -4,6 +4,7 @@
  * print_sign - print sign of number
  *
  * Description: printing sign of number
+ * @n: input number
  *
  * Return: 1 if number is positive, o if number is 0
  * -1 if number is negative
