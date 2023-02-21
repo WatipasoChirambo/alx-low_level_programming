@@ -9,7 +9,7 @@
  *
  */
 
-void times_table(void)
+void times_table(int n)
 {
 	int i,j,n;
 
