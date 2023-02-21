@@ -3,8 +3,9 @@
 /**
  * _isalpha - checking if its an alphabet
  *
- * Description: function return 1 if the 
+ * Description: function return 1 if the
  * character is a letter, lower or uppercase
+ * @c: input character
  *
  * Return: 1 or 0
  *
