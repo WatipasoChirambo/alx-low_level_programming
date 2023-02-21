@@ -15,9 +15,9 @@ int main(void)
 	{
 		for (two = one + 1; two <= '9'; two++)
 		{
-			for(three = two + 1; three <= '9'; three++)
+			for (three = two + 1; three <= '9'; three++)
 			{
-				if((two != one) != three)
+				if ((two != one) != three)
 				{
 					putchar(one);
 					putchar(two);
