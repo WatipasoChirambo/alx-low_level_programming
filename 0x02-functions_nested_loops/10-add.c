@@ -1,5 +1,4 @@
 /**
- *
  * add - Add numbers a and b
  *
  * Description: Function adding two numbers and returing result
@@ -10,5 +9,5 @@
 
 int add(int a, int b)
 {
-	return (a+b);
+	return (a + b);
 }
