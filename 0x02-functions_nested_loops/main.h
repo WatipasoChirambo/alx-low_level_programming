@@ -11,3 +11,4 @@ int print_last_digit(int);
 void jack_bauer(void);
 int _abs(int);
 void print_times_table(int);
+void formatter(int);
