@@ -24,6 +24,8 @@ void print_times_tables(int n)
 	}
 }
 
+
+
 void formatter(int n)
 {
 	if (n <= 9)
