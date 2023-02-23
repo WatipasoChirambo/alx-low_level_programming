@@ -2,7 +2,7 @@
 
 /**
  * print_diagonal - function drawing a diagonal line on the terminal
- * @n: input number pf times '\' should be printed
+ * @n: input number of times '\' should be printed
  * Return: a diagoanl line print
  */
 
@@ -16,7 +16,7 @@ void print_diagonal(int n)
 	}
 	else
 	{
-		for (co = 1; sp < co; sp++)
+		for (co = 1; co < n; co++)
 		{
 			for (sp = 1; sp < co; sp++)
 			{
