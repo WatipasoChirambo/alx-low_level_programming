@@ -3,6 +3,8 @@
 /**
  * print_most_numbers - function printing numbers from 0-9
  *
+ * @i: loop iterator
+ *
  * Return: 0-9, apart from 2 & 4, followed by a new line
  */
 
