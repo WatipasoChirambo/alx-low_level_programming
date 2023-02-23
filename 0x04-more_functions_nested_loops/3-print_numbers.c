@@ -6,7 +6,7 @@
  * Return: 0-9 followed by newline
  */
 
-void print(void)
+void print_numbers(void)
 {
 	int i;
 
