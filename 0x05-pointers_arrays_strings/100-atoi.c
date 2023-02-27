@@ -23,7 +23,7 @@ int _atoi(char *s)
 			total = total * 10 + *s - '0';
 		}
 
-		else if (null_fla)
+		else if (null_flag)
 			break;
 		s++;
 	}
