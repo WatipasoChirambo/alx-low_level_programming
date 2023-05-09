@@ -1,2 +1,0 @@
-Structres_typedef
-
